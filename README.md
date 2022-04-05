@@ -1,1 +1,2 @@
 # odin-recipes
+This is going to be an example recipe site to practice setting up an entire site. By the end of this project I will have demonstrated my ability to create a homepage with links to other pages within the domain as well as include images and lists on a page.
